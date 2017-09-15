@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="409" key="DIALOG_X_ORIGIN"/>
+		<item value="376" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Profile" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="profile"/>
+			<item value="black"/>
+			<item value="update"/>
+			<item value="sign"/>
+			<item value="logout"/>
+			<item value="drawing"/>
+			<item value="password"/>
+			<item value="drawi"/>
+			<item value="isDraw"/>
+			<item value="interr"/>
+			<item value="intte"/>
+			<item value="int"/>
+			<item value="select"/>
+			<item value="pro"/>
+			<item value="delete"/>
+		</list>
+		<list key="replacehistory">
+			<item value="refreshBtn"/>
+			<item value=""/>
+			<item value="ProfileShow"/>
+			<item value="DbVO"/>
+			<item value="DbDao"/>
+			<item value="peopleNumBtn"/>
+			<item value="dbVO"/>
+			<item value="dbDao"/>
+			<item value="pwPn"/>
+			<item value="idPn"/>
+			<item value="titlePn"/>
+			<item value="makeRoom"/>
+			<item value="bankA.size"/>
+			<item value="size()"/>
+			<item value="bankA.get(y)"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="366" key="DIALOG_HEIGHT"/>
+		<item value="8" key="DIALOG_X_ORIGIN"/>
+		<item value="199" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

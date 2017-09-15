@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;Github_ATalk&apos;&#x0D;&#x0A;- Original project: &apos;Github_ATalk&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     drawing.DrawingServer.java&#x0D;&#x0A;     drawing.MyCanvas.java&#x0D;&#x0A;     drawing.MyDrawing.java&#x0D;&#x0A;     drawing.PaintInfoVO.java&#x0D;&#x0A;     drawing.PaintPanel.java&#x0D;&#x0A;     drawing.PaintToolFrame.java" description="Delete elements" element1="/src&lt;drawing{MyCanvas.java" element2="/src&lt;drawing{MyDrawing.java" element3="/src&lt;drawing{PaintInfoVO.java" element4="/src&lt;drawing{PaintToolFrame.java" element5="/src&lt;drawing{DrawingServer.java" element6="/src&lt;drawing{PaintPanel.java" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1505381344008" subPackages="false" version="1.0"/>
+</session>
